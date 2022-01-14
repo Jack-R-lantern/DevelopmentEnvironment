@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Language/Rust",
+		"color": "d5a789",
+		"aliases": [],
+		"description": "Language-Rust"
+	},
+	{
+		"name": "Environment/container",
+		"color": "00498c",
+		"aliases": [],
+		"description": "Environment-container"
+	},
+	{
+		"name": "Environment/vm",
+		"color": "00498c",
+		"aliases": [],
+		"description": "Environment-vm"
+	},
+	{
+		"name": "Editor/vscode",
+		"color": "4b9adf",
+		"aliases": [],
+		"description": "Editor-vscode"
+	},
+	{
+		"name": "IDE/CLion",
+		"color": "60ca96",
+		"aliases": [],
+		"description": "IDE-CLion"
+	}
+]
