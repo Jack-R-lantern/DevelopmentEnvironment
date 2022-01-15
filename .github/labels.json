@@ -6,6 +6,18 @@
 		"description": "Language-Rust"
 	},
 	{
+		"name": "Language/TypeScript",
+		"color": "407287",
+		"aliases": [],
+		"description": "Language-TypeScript"
+	},
+	{
+		"name": "Framework/koa",
+		"color": "33333c",
+		"aliases": [],
+		"description": "Framework-koa"
+	},
+	{
 		"name": "Environment/container",
 		"color": "00498c",
 		"aliases": [],

@@ -1,10 +1,15 @@
-# ISSUE
+# 개발 환경 구축
 
-## 종류
-
-- [ ] New Feature
-- [ ] Set Up
-- [ ] Bug
+## **종류**
+### 격리 방법
+- [x] container
+- [ ] vm
+### 개발 툴
+- [x] IDE
+- [ ] text editor
+### 격리된 내부에 설치해야하는 것
+- [x] Language
+- [ ] Framework
 
 ## 내용
 - ISSUE와 관련된 내용을 적습니다.
