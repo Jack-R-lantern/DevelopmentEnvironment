@@ -12,10 +12,22 @@
 		"description": "Language-TypeScript"
 	},
 	{
+		"name": "Language/Ruby",
+		"color": "671d1a",
+		"aliases": [],
+		"description": "Language-Ruby"
+	},
+	{
 		"name": "Framework/koa",
 		"color": "33333c",
 		"aliases": [],
 		"description": "Framework-koa"
+	},
+	{
+		"name": "Static-site-generator/Jekyll",
+		"color": "d22d1f",
+		"aliases": [],
+		"description": "Static-site-generator-Jekyll"
 	},
 	{
 		"name": "Environment/container",
