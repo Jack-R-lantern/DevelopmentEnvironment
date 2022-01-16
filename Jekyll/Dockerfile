@@ -1,16 +1,17 @@
-FROM ruby:alpine3.14
+FROM ruby:2.7-alpine
 
 # preinstall for jekyll
 RUN apk update \
 &&  apk add --no-cache \
 	gcc \
 	g++ \
+	git \
 	make \
 	musl-dev \
 	vim
 
 # install jekyll & bundle
-RUN gem install jekyll bundle
+RUN gem install jekyll bundler
 
 EXPOSE	4000
 
